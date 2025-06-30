@@ -1,0 +1,2 @@
+/Users/m.akbar/Documents/GitHub/flutter_app_badger/example/android/app/.cxx/Debug/1c5p291m/x86/CMakeFiles/edit_cache.dir
+/Users/m.akbar/Documents/GitHub/flutter_app_badger/example/android/app/.cxx/Debug/1c5p291m/x86/CMakeFiles/rebuild_cache.dir
